@@ -1,6 +1,6 @@
 # GitHub-Markdown-Tutorial
 
-### This is a repository for my Python program.
+### This is a repository for this recongnizable Python program.
 
 - This is a classic first program.
 - It not only displays knowledge of printing information.
