@@ -1,5 +1,5 @@
 
-#My first program on Girhub
+#My first program on Github
 
 hello = "Hello Python World!!!!!"
 
